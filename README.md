@@ -1,0 +1,2 @@
+# angular
+basic angular boilerplate
